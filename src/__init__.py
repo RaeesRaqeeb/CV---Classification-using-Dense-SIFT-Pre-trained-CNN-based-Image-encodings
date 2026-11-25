@@ -1,0 +1,1 @@
+"""Computer Vision assignments: Dense SIFT BoVW and Pre-trained CNN encodings with Linear SVM."""
